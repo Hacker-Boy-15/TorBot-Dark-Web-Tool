@@ -111,21 +111,6 @@ Read more about torrc here : [Torrc](https://github.com/DedSecInside/TorBoT/blob
 - [ ] Screenshot capture
 
 
-## Contribution Guidelines
-
-### Found an issue?
-
-If you face any issues in the project, please let us know by creating a new issue [here](https://github.com/DedSecInside/TorBot/issues/new/choose).
-
-### Developer Guidelines
-
-We welcome contributions to this project! Here are a few guidelines to follow:
-
-1. Fork the repository and create a new branch for your contribution.
-2. Make sure your code passes all tests by running `pytest` before submitting a pull request to `dev` branch.
-3. Follow the [PEP8](https://www.python.org/dev/peps/pep-0008/) style guide for Python code.
-4. Make sure to add appropriate documentation for any new features or changes.
-5. When submitting a pull request, please provide a detailed description of the changes made.
 
 ## References
 
@@ -151,17 +136,6 @@ We welcome contributions to this project! Here are a few guidelines to follow:
     20. Ani R, Jose J, Wilson M, Deepa OS. “Modified Rotation Forest Ensemble Classifier for Medical Diagnosis in Decision Support Systems”, In Progress in Advanced Computing and Intelligent Engineering 2018 (pp. 137-146). Springer, Singapore.
     21. Ani R, Augustine A, Akhil N.C. and Deepa O.S., 2016. “Random Forest Ensemble Classifier to Predict the Coronary Heart Disease Using Risk Factors”, In Proceedings of the International Conference on Soft Computing Systems (pp. 701-710). Springer, New Delhi.
 
-
-## Maintainers
-
-- [X] [PS Narayanan](https://github.com/PSNAppz) - Co-owner
-- [X] [KingAkeem](https://github.com/KingAkeem) - Co-owner
-
-## All Thanks to Our Contributors
-
-<a href="https://github.com/DedSecInside/TorBot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DedSecInside/TorBot" />
-</a>
 
 ## License
 [GNU Public License](https://github.com/DedSecInside/TorBot/blob/dev/LICENSE.md)
